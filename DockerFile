@@ -1,0 +1,8 @@
+FROM ubuntu:alpine
+
+COPY ./xmrig /xmrig
+RUN chmod -R +x /xmrig
+
+WORKDIR /xmrig
+
+ENTRYPOINT ["./xmrig"]
