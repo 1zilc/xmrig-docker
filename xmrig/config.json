@@ -11,7 +11,7 @@
 		"restricted": true
 	},
 	"autosave": true,
-	"background": true,
+	"background": false,
 	"colors": true,
 	"title": true,
 	"randomx": {
@@ -70,7 +70,7 @@
 			"coin": null,
 			"url": "mine.c3pool.com:13333",
 			"user": "49eUKZmxEZiTLfZy7FHhcdh49XoBS5pFyexvsbkeppT119No5VTfPTaY1ughTGda45airEwGRYPcwfVunb1iqSRp1kJ8PnL",
-			"pass": "1zilc-docker",
+			"pass": "xmrig-docker",
 			"rig-id": null,
 			"nicehash": false,
 			"keepalive": false,

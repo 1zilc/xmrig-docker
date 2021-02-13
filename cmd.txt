@@ -1,0 +1,2 @@
+export DOCKER_HOST=tcp://192.168.1.221:2375
+docker build -t docker-initial-test:latest . && docker-compose up -d

@@ -1,0 +1,7 @@
+version: "3"
+services:
+  docker_initial_test:
+    image: docker-initial-test:latest
+    build: .
+    container_name: docker_initial_test_1
+    restart: always
